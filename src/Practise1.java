@@ -68,13 +68,16 @@ public class Practise1 {
 		 * System.out.println(hundredsNumberTotal); System.out.println(tensNumberTotal);
 		 * System.out.println(onesNumberTotal);
 		 */
-
+		
+		// Comparing the sum, of all three digits (hundreds, tens and ones) 
+		// Also printing True or False statement based on result 
+		
 		if (hundredsNumberTotal == tensNumberTotal && tensNumberTotal == onesNumberTotal) {
 
 			System.out.println("True! ");
 
 		} else {
-			// (hundredsNumberTotal != 8 || tensNumberTotal != 8 || onesNumberTotal != 8);{
+			
 			System.out.println("False! ");
 		}
 
