@@ -8,7 +8,7 @@ public class DifferenceBetweenDays {
 	public static void main(String[] args) {
 
 		
-		// This program compares two dates.
+		
 		
 				System.out.print("Enter the newest date in YYYY-MM-DD format: ");
 
