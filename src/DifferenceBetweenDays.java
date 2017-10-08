@@ -7,9 +7,7 @@ import java.util.Scanner;
 public class DifferenceBetweenDays {
 	public static void main(String[] args) {
 
-		
-		
-		
+			
 				System.out.print("Enter the newest date in YYYY-MM-DD format: ");
 
 				Scanner scnr = new Scanner(System.in);
